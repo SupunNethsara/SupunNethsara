@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Supun Nethsara Dharmathilaka</h2>
 <h4  align="center"> A passionate frontend developer from Sri Lanka </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supunnethsara&label=Profile%20views&color=0e75b6&style=flat" alt="supunnethsara" /> </p>
-<img align ="right" alt ="coding" width="300 top="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - 🔭 I’m currently Learning  **Frontend Development with React**
