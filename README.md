@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supunnethsara&label=Profile%20views&color=0e75b6&style=flat" alt="supunnethsara" /> </p>
 <img align ="right" alt ="coding" width="300 top="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+
 - 🔭 I’m currently Learning  **Frontend Development with React**
 
 - 🌱 I’m Undergraduate at **University of Colombo School of Computing**
@@ -15,7 +16,7 @@
 
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
+<table width="100%" align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -35,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supun nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun nethsara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supun nethsara](https://www.linkedin.com/in/supun-nethsara-05b6a8253/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun nethsara" height="30" width="40" /></a>
 <a href="https://fb.com/supun nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun nethsara" height="30" width="40" /></a>
 </p>
 
