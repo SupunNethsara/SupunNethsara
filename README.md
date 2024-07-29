@@ -13,7 +13,7 @@
 - 💬 Ask me about **Web development**
 
 - ⚡ Fun fact **SD**
-
+<h4 align="center">My Statics</h4>
 <p align="center">
   <!--- stats (start) -->
 <table width="100%" align="center">
@@ -35,13 +35,14 @@
 </p> 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/supun-nethsara-05b6a8253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun nethsara" height="30" width="40" /></a>
 <a href="https://web.facebook.com/supun.nethsera.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun nethsara" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nikz_supun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun nethsara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs"width="30" height="30"/> </a> <a href="https://www.arduino.cc/" target="_blank"rel="noreferrer">&nbsp;  
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;  
