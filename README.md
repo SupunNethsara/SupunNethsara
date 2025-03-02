@@ -12,6 +12,8 @@
 
 
 - 🔭 I’m currently Learning  **Frontend Development with React**
+ 
+- 🔭 I’m passionate about **Backend Development with laravel Framework**
 
 - 🌱 I’m Undergraduate at **University of Colombo School of Computing**
 
