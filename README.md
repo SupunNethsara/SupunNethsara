@@ -89,25 +89,6 @@
   
 </div>
 
----
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*To display recent activity, you need to set up a GitHub Action. Check out [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph) for setup instructions.*
-
----
-
-## 🐍 Contribution Graph
-
-![Contribution Grid](https://github.com/SupunNethsara/SupunNethsara/raw/output/github-contribution-grid-snake.svg)
-
-*Note: The snake animation requires a GitHub Action to generate. You can set it up using [github-snake](https://github.com/Platane/snk) repository.*
-
----
-
 <div align="center">
   
   💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
