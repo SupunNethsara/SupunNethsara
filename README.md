@@ -1,72 +1,119 @@
 <p align="center">
-
- <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =100px>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 
+<h1 align="center">Hello World! 👋 I'm Supun Nethsara</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<h2 align="center">Hi 👋, I'm Supun Nethsara Dharmathilaka</h2>
-<h4 align="center">Welcome to my GITHUB Account</h4>
-<h4  align="center"> A passionate frontend developer from Sri Lanka </h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=supunnethsara&label=Profile%20views&color=0e75b6&style=flat" alt="supunnethsara" /> </p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-nethsara-05b6a8253/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/supun.nethsera.5)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikz_supun/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supunmax663@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=supunnethsara&label=Profile%20Views&color=blue&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/SupunNethsara?label=Followers&style=social)
+  
+</div>
+
+## 🚀 About Me
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+- 🎓 **Bachelor of Information Technology** at **University of Colombo School of Computing**
+- 💻 Passionate about **Full-Stack Development** with expertise in both frontend and backend
+- 🌱 Currently mastering **React.js** for frontend and **Laravel** for backend development
+- 🔭 Working on innovative web solutions and open-source projects
+- 📫 Reach me at: **supunmax663@gmail.com**
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful designs
 
-- 🔭 I’m currently Learning  **Frontend Development with React**
- 
-- 🔭 I’m passionate about **Backend Development with laravel Framework**
+---
 
-- 🌱 I’m Undergraduate at **University of Colombo School of Computing**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **supunmax663@gmail.com**
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- 💬 Ask me about **Web development**
+### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- ⚡ Fun fact **SD**
-<h4 align="center">My Statics</h4>
-<p align="center">
-  <!--- stats (start) -->
-<table width="100%" align="center">
-<tr border="none">
-<td width="50%" align="center">
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| | |
+| :---: | :---: |
+| ![Supun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupunNethsara&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunNethsara&layout=compact&theme=radical&langs_count=8) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupunNethsara&theme=radical) | |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SupunNethsara&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunNethsara&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SupunNethsara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SupunNethsara&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
-  </td>
-</tr>
-</table>
-</p> 
+</div>
 
-<h4 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/supun-nethsara-05b6a8253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun nethsara" height="30" width="40" /></a>
-<a href="https://web.facebook.com/supun.nethsera.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun nethsara" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/nikz_supun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun nethsara" height="30" width="40" /></a>
-</p>
+---
 
-<h4 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40""/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> &nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">&nbsp;<br> 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> &nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> &nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="sass"width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">&nbsp; 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">&nbsp;  
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>&nbsp; </p>
+## 🌟 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*To display recent activity, you need to set up a GitHub Action. Check out [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph) for setup instructions.*
+
+---
+
+## 🐍 Contribution Graph
+
+![Contribution Grid](https://github.com/SupunNethsara/SupunNethsara/raw/output/github-contribution-grid-snake.svg)
+
+*Note: The snake animation requires a GitHub Action to generate. You can set it up using [github-snake](https://github.com/Platane/snk) repository.*
+
+---
+
+<div align="center">
+  
+  💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+  <br>
+  
+  ![Thanks for visiting!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg?style=for-the-badge)
+  
+</div>
