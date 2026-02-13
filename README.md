@@ -25,7 +25,7 @@
 
 ```typescript
 const supun = {
-    education: "BSc IT @ University of Colombo School of Computing",
+    education: "BIT @ University of Colombo School of Computing",
     currentlyLearning: ["AWS Cloud Architecture", "Test-Driven Development", "Redux State Management"],
     workingOn: "Building production-ready, cloud-native applications",
     askMeAbout: ["React", "Laravel", "AWS", "TDD", "System Design"],
