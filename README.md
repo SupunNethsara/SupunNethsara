@@ -96,34 +96,6 @@ const supun = {
   
 </div>
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SupunNethsara&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Supun Nethsara github stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunNethsara&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SupunNethsara&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
-  
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=SupunNethsara&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-  
-</div>
-
----
-
 ## 🎓 What I'm Learning
 
 <table>
