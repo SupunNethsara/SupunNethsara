@@ -97,30 +97,46 @@ const supun = {
 </div>
 
 ## 🎓 What I'm Learning
-
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="16.66%">
       <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="65px"/>
       <br><strong>AWS Cloud</strong>
       <br>
       <sub>EC2, S3, Lambda, RDS</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="16.66%">
       <img src="https://img.icons8.com/ios/100/4CAF50/test-tube.png" width="65px"/>
       <br><strong>TDD Practices</strong>
       <br>
       <sub>Jest, Unit Testing, Integration</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="16.66%">
       <img src="https://img.icons8.com/color/96/000000/redux.png" width="65px"/>
       <br><strong>Redux Toolkit</strong>
       <br>
       <sub>State Management, RTK Query</sub>
     </td>
+    <td align="center" width="16.66%">
+      <img src="https://img.icons8.com/color/96/000000/docker.png" width="65px"/>
+      <br><strong>Docker</strong>
+      <br>
+      <sub>Containers, Images, Compose</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="65px"/>
+      <br><strong>Kubernetes</strong>
+      <br>
+      <sub>Orchestration, Pods, Deployments</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://img.icons8.com/fluency/96/000000/process.png" width="65px"/>
+      <br><strong>Automation</strong>
+      <br>
+      <sub>CI/CD, Jenkins, GitHub Actions</sub>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 Coding Activity
